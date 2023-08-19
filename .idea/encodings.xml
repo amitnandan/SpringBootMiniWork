@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chatgpt-prompt-integration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/searching/src/main/java" charset="UTF-8" />
   </component>
 </project>
